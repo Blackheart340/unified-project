@@ -1,21 +1,24 @@
+### UNIFIED PROJECT
 
+It is another boilerplate for react projects. That contains architecture for typical redux project, configured webpack and dev server also. You can clone this repo and enjoy your development process. In this repo you also can find good practice examples and a few apporaches to building complex application.
 
-hot module replacement
-webpack bundle analyzer
-webpack dashboard
-redux inspector
+### Tools
+* Webpack
+* Docker
+* Babel
+* Ava
+* Enzyme
+* Elsint
 
-baggage loader
-webpack build
-docker
-configured babel
-ava
-eslint
+### Features
+* Hot module replacement
+* Webpack bundle analyzer
+* Webpack dashboard
+* Redux devtools
+* baggage loader
 
-simple scripts for build docker image and run dev server
-
-react 15.5
-redux
-    redux-actions
-    redux-saga
-immutable
+### Stack
+* react 15.5
+* redux
+* saga
+* immutable
