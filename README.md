@@ -15,10 +15,11 @@ It is another boilerplate for react projects. That contains architecture for typ
 * Webpack bundle analyzer
 * Webpack dashboard
 * Redux devtools
-* baggage loader
+* Baggage loader
 
 ### Stack
 * react 15.5
 * redux
-* saga
+* redux-actions
+* redux-saga
 * immutable
